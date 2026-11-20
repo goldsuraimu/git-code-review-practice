@@ -1,2 +1,2 @@
-const name1 = "Tom";
-console.log(name1);
+const name = "Git";
+console.log(name);
