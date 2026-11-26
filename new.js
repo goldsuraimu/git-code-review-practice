@@ -8,3 +8,9 @@ function calculateSum(a, b) {
 }
 
 console.log(calculateSum(10, 20));
+
+function getUserName() {
+  return "John";
+}
+
+console.log(getUserName());
