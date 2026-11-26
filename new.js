@@ -10,7 +10,7 @@ function calculateSum(a, b) {
 console.log(calculateSum(10, 20));
 
 function getUserName() {
-  return "John";
+  return "Tom";
 }
 
 console.log(getUserName());
